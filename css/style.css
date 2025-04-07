@@ -998,10 +998,13 @@ html[xmlns] .slides {
 /*-----------------------------------------------------------------*/
 
 #facts {
-	background:url(../images/parallax/facts.jpg) no-repeat;
+	background:url(../images/imagess//a4014168d4b53d930915d13355a21f61.jpg) no-repeat;
 	padding: 150px 0px 100px;
 }
-
+#factss {
+	background:url(../images/imagess/d7e329582c8ff40640018655205ce9bd\ \(1\).jpg ) no-repeat;
+	padding: 150px 0px 100px;
+}
 .facts-box {
 	text-align:center;
 }
@@ -1286,16 +1289,16 @@ html[xmlns] .slides {
 }
 
 
+/* https://thumbs.dreamstime.com/b/science-research-background-28440766.jpg */
 
-
-
+/* https://img.freepik.com/premium-psd/research-concept-background_892970-5309.jpg */
 /*-----------------------------------------------------------------*/
 /* History
 /*-----------------------------------------------------------------*/
 
-
+/* ../images/parallax/timeline.jpg */
 #history {
-	background:url(../images/parallax/timeline.jpg);
+	background:url(/images/imagess/d3b3df1a87d1274e5f1cdcacbc30db46.jpg);
 }
 
 ul.timeline {
@@ -2030,7 +2033,7 @@ ul.timeline {
 
 
 #testimonials {
-	background:url(../images/parallax/testimonials.jpg) no-repeat;
+	background:url(../images/imagess/d7e329582c8ff40640018655205ce9bd.jpg) no-repeat;
 }
 
 #testimonials {
